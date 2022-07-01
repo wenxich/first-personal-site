@@ -1,6 +1,6 @@
-# wenxi.me
+# wenxi.neocities.org
 
-A (work-in-progress) personal website created using HTML and CSS.
+A personal website created using HTML and CSS.
 
 <b>Media credits:</b> All media content was created by me. :~) <i>(Please do not repost or redistribute my artwork without credit or permission.)</i>
 
